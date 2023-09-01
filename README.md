@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thato-baloyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thato-baloyi" height="30" width="40" /></a>
 <a href="https://instagram.com/teamesb03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teamesb03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@teamesb03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teamesb03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOikB53sDG15DCHOYJyIzbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teamesb03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
